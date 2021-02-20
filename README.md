@@ -1,5 +1,3 @@
-- [x] **https://fucknazis.github.io/fucknazis**
-
 ![](https://raw.githubusercontent.com/FuckNazis/fucknazis/master/FuckNazis.svg)
 ---
 # ANARCHISM AND OTHER ESSAYS
