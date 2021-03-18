@@ -1,0 +1,10 @@
+*.pem
+*.key
+*.crt
+*.cer
+*.priv
+secring.*
+**/.ssh/id_*
+**/.ssh/*_id_*
+**/.ssh/known_hosts
+~*
